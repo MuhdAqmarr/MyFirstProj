@@ -187,7 +187,7 @@ export default function Home() {
         <Spacing lg="130" md="70" />
         <Div className="container">
           <h2 className="cs-font_50 cs-m0 text-center cs-line_height_4">
-            Our agile process is ability to adapt and respond to change. Agile
+            Our agile process is ability to adapt and respond to change. woii
             organizations view change as an opportunity, not a threat.
           </h2>
           <Spacing lg="70" md="70" />
